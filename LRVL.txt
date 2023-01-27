@@ -1,0 +1,7 @@
+https://github.com/LaravelDaily/SportsLeague-QuickAdminPanel
+
+https://github.com/PYDeret/G-Esport
+
+https://github.com/LaravelDaily/Laravel-Event-Conference-Demo
+
+https://github.com/dreamdev21/Laravel-Event-management-system
